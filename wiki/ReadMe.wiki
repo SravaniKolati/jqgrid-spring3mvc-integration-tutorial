@@ -1,6 +1,6 @@
 jqGrid - Spring 3 MVC Integration Tutorial
 
-= jqGrid and Spring 3 MVC Integration Using Annotations Tutorial =
+= jqGrid - Spring 3 MVC Integration Using Annotations Tutorial =
 
 An integration tutorial for jqGrid and Spring 3 MVC.
 
